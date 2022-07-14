@@ -35,7 +35,7 @@ Fungsi User yaitu untuk melakukan proses login.
 ### Implementasi Fungsi.
 Mengimplementasikan Fungsi untuk menampilkan total data :<p>
 CREATE FUNCTION fn_totalUsers() RETURNS INT(11) UNSIGNED NOT DETERMINISTIC NO SQL SQL SECURITY DEFINER RETURN (SELECT COUNT(id_pasien) FROM pasien)<p>
-!img<p>
+![image](https://user-images.githubusercontent.com/101499377/179035276-e72461ca-1785-4471-a17e-79a643c71a97.png)<p>
 ### Implementasi View.
 CREATE VIEW viewPenyakit AS SELECT a.id_berobat, b.nama_pasien, b.jenis_kelamin, b.umur, a.keluhan_pasien, a.hasil_diagnosa, a.tgl_berobat, c.nama_dokter FROM berobat a JOIN pasien b ON a.id_pasien=b.id_pasien JOIN dokter c ON a.id_dokter=c.id_dokter WHERE b.jenis_kelamin='L'<p>
-!img<p>
+![image](https://user-images.githubusercontent.com/101499377/179035347-80bd15f4-4c0d-4c5a-b06c-b6f5a6c74737.png)<p>
