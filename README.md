@@ -12,13 +12,16 @@ Dosen : Muhammad Najamuddin Dwi Miharja, S.Kom, M.kom <p>
 ![image](https://user-images.githubusercontent.com/101499377/179018250-e1e850a8-84f5-4988-87a2-b0c4bcaacd00.png)<p>
 ### Tampilan Data Pasien.
 ![image](https://user-images.githubusercontent.com/101499377/179018616-e3e4ab77-fbbd-40b8-8f1b-ff475b76e447.png)<p>
-Dalam tabel pasien saya bisa menambahkan, menghapus dan mengedit data. Contohnya sebagai berikut :<p>
+Dalam tabel pasien saya bisa menambahkan, mengedit dan menghapus data. Contohnya sebagai berikut :<p>
 ### Tampilan Menambah Pasien.
-!img.<p>
-### Tampilan Hapus Pasien.
-!img <p>
+![image](https://user-images.githubusercontent.com/101499377/179041949-13664779-462f-43bc-922f-f989e2c22251.png)<p>
+![image](https://user-images.githubusercontent.com/101499377/179042185-4bbe6e57-87e8-4d53-9268-42d796c3f1f7.png)<p>
 ### Tampilan Edit Pasien.
-!img<p>
+![image](https://user-images.githubusercontent.com/101499377/179042281-a661f8b1-2cfc-4dd3-99af-4dbf5728ca25.png)<p>
+![image](https://user-images.githubusercontent.com/101499377/179042500-19eccb56-e140-4375-82f7-7f71be81e535.png)<p>
+### Tampilan Hapus Pasien.
+![image](https://user-images.githubusercontent.com/101499377/179042819-36d4297c-c6c3-4764-9556-468bf7f9bbfb.png)<p>
+![image](https://user-images.githubusercontent.com/101499377/179042945-9bd618e2-7f87-4d29-8a89-76608bb98e19.png)<p>
 ### Tampilan Data Dokter.
 ![image](https://user-images.githubusercontent.com/101499377/179019566-681be3dd-4374-4be8-b25b-5d9150f95bff.png)<p>
 Data dokter juga di berikan perintah tamabah, hapus dan juga edit.<p>
