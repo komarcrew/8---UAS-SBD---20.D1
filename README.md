@@ -24,7 +24,7 @@ Dalam tabel pasien saya bisa menambahkan, mengedit dan menghapus data. Contohnya
 ![image](https://user-images.githubusercontent.com/101499377/179042945-9bd618e2-7f87-4d29-8a89-76608bb98e19.png)<p>
 ### Tampilan Data Dokter.
 ![image](https://user-images.githubusercontent.com/101499377/179019566-681be3dd-4374-4be8-b25b-5d9150f95bff.png)<p>
-Data dokter juga di berikan perintah tamabah, hapus dan juga edit.<p>
+Data dokter juga di berikan perintah tambah, hapus dan juga edit.<p>
 ### Tampilan Data Obat.
 ![image](https://user-images.githubusercontent.com/101499377/179020012-62315ede-bf57-48b5-bd04-101d1f56df7b.png)<p>
 Didalam modul data obat saya memberikan <b> Trigger </b>
