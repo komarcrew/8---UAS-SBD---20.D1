@@ -47,14 +47,16 @@
 			require "../koneksi.php";
 			include "../session.php";
 			$no = 1;
-			$query = mysqli_query($conn, 'SELECT * FROM berobat');
+			$query = mysqli_query($conn, 'SELECT * FROM berobat
+				join pasien on pasien.id_pasien = berobat.id_pasien
+				join dokter on dokter.id_dokter = berobat.id_dokter');
 			while ($data = mysqli_fetch_array($query)) {
 			?>
 				<tr>
 					<td><?php echo $no++ ?></td>
 					<td><?php echo $data['id_berobat'] ?></td>
-					<td><?php echo $data['id_pasien'] ?></td>
-					<td><?php echo $data['id_dokter'] ?></td>
+					<td><?php echo $data['nama_pasien'] ?></td>
+					<td><?php echo $data['nama_dokter'] ?></td>
 					<td><?php echo $data['tgl_berobat'] ?></td>
 					<td><?php echo $data['keluhan_pasien'] ?></td>
 					<td><?php echo $data['hasil_diagnosa'] ?></td>
